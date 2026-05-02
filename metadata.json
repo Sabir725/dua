@@ -1,0 +1,13 @@
+{
+  "name": "Nur Al-Dua",
+  "description": "A beautiful Islamic app featuring Quranic and Hadith Duas categorized by person types, with high-quality Arabic typography, multi-language support, and offline capability.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "Offline Support",
+    "Multi-language Translations",
+    "Islamic Typography",
+    "Theme Customization"
+  ]
+}
